@@ -64,7 +64,3 @@ Siga os passos abaixo para configurar o projeto em sua máquina:
 ## 📜 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
---- 
-
-Pronto! Este README é profissional, visualmente atraente com emojis e contém todas as informações essenciais para entender e usar o projeto.
